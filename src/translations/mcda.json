@@ -353,64 +353,64 @@
     "item.mcda.highland_armor_helmet":              "Casco Montañés",
     "item.mcda.highland_armor_chestplate":          "Peto Montañés",
     "item.mcda.highland_armor_leggings":            "Leotardos Montañés",
-    "item.mcda.highland_armor_boots":               "Highland Tasset",
-  
-    "item.mcda.highland_armor.tooltip_1":           "A wise armorer made this armor with care,",
-    "item.mcda.highland_armor.tooltip_2":           "it has elements of the mountain Villagers.",
-  
-    "item.mcda.highland_armor.effect.tooltip_1":    "Haste",
-  
-    "item.mcda.snow_armor_helmet":                  "Snow Helmet",
-    "item.mcda.snow_armor_chestplate":              "Snow Chestplate",
-    "item.mcda.snow_armor_leggings":                "Snow Leggings",
-    "item.mcda.snow_armor_boots":                   "Snow Boots",
-  
-    "item.mcda.snow_armor.tooltip_1":               "A suit of armor that was tempered in",
-    "item.mcda.snow_armor.tooltip_2":               "snowmelt, protecting the wearer from",
-    "item.mcda.snow_armor.tooltip_3":               "the harsh cold of the tundra.",
-  
-    "item.mcda.frost_armor_helmet":                 "Frost Helmet",
-    "item.mcda.frost_armor_chestplate":             "Frost Chestplate",
-    "item.mcda.frost_armor_leggings":               "Frost Leggings",
-    "item.mcda.frost_armor_boots":                  "Frost Boots",
-  
-    "item.mcda.frost_armor.tooltip_1":              "This legendary armor, forged from ice",
-    "item.mcda.frost_armor.tooltip_2":              "that never melts, makes the wearer",
-    "item.mcda.frost_armor.tooltip_3":              "feel as if they are one with winter.",
-  
-    "item.mcda.frost_armor.effect.tooltip_1":       "Fluid Freezing",
-  
-    "item.mcda.soul_robe_helmet":                   "Soul Hood",
-    "item.mcda.soul_robe_chestplate":               "Soul Robe",
-    "item.mcda.soul_robe_leggings":                 "Soul Leggings",
-    "item.mcda.soul_robe_boots":                    "Soul Belt",
-  
-    "item.mcda.soul_robe.tooltip_1":                "In a particular light, the souls",
-    "item.mcda.soul_robe.tooltip_2":                "woven into the cloth of the Soul",
-    "item.mcda.soul_robe.tooltip_3":                "Robe shimmer with power.",
-  
-    "item.mcda.souldancer_robe_helmet":             "Souldancer Hood",
-    "item.mcda.souldancer_robe_chestplate":         "Souldancer Robe",
-    "item.mcda.souldancer_robe_leggings":           "Souldancer Leggings",
-    "item.mcda.souldancer_robe_boots":              "Souldancer Belt",
-  
-    "item.mcda.souldancer_robe.tooltip_1":          "The Souldancer Robe comes alive",
-    "item.mcda.souldancer_robe.tooltip_2":          "in the light, as if the souls",
-    "item.mcda.souldancer_robe.tooltip_3":          "within are dancing for all eternity.",
-  
-    "item.mcda.souldancer_robe.effect.tooltip_1":   "Souldancer's Grace",
-    "item.mcda.souldancer_robe.effect.tooltip_2":   "Souldancer Experience",
-  
-    "item.mcda.spelunker_armor_helmet":             "Spelunker Helmet",
-    "item.mcda.spelunker_armor_chestplate":         "Spelunker Vest",
-    "item.mcda.spelunker_armor_leggings":           "Spelunker Leggings",
-    "item.mcda.spelunker_armor_boots":              "Spelunker Braces",
-  
-    "item.mcda.spelunker_armor.tooltip_1":          "The Spelunker Armor is worn by those",
-    "item.mcda.spelunker_armor.tooltip_2":          "who brave the darkest depths of the",
-    "item.mcda.spelunker_armor.tooltip_3":          "Overworld.",
-  
-    "item.mcda.cave_crawler_helmet":                "Cave Crawler Helmet",
+    "item.mcda.highland_armor_boots":               "Faja de las Tierras Altas",
+
+    "item.mcda.highland_armor.tooltip_1":           "Un armero sabio hizo esta armadura con cuidado,",
+    "item.mcda.highland_armor.tooltip_2":           "tiene elementos de los aldeanos de la montaña.",
+
+    "item.mcda.highland_armor.effect.tooltip_1":    "Prisa",
+
+    "item.mcda.snow_armor_helmet":                  "Casco de Nieve",
+    "item.mcda.snow_armor_chestplate":              "Peto de Nieve",
+    "item.mcda.snow_armor_leggings":                "Leotardos de Nieve",
+    "item.mcda.snow_armor_boots":                   "Botas de Nieve",
+
+    "item.mcda.snow_armor.tooltip_1":               "Una armadura que fue templada en",
+    "item.mcda.snow_armor.tooltip_2":               "el derretimiento de la nieve, protegiendo al portador de",
+    "item.mcda.snow_armor.tooltip_3":               "el frío severo de la tundra.",
+
+    "item.mcda.frost_armor_helmet":                 "Casco de Escarcha",
+    "item.mcda.frost_armor_chestplate":             "Peto de Escarcha",
+    "item.mcda.frost_armor_leggings":               "Leotardos de Escarcha",
+    "item.mcda.frost_armor_boots":                  "Botas de Escarcha",
+
+    "item.mcda.frost_armor.tooltip_1":              "Esta armadura legendaria, forjada de hielo",
+    "item.mcda.frost_armor.tooltip_2":              "que nunca se derrite, hace que el portador",
+    "item.mcda.frost_armor.tooltip_3":              "se sienta como uno con el invierno.",
+
+    "item.mcda.frost_armor.effect.tooltip_1":       "Congelación Fluido",
+
+    "item.mcda.soul_robe_helmet":                   "Capucha de Alma",
+    "item.mcda.soul_robe_chestplate":               "Túnica de Alma",
+    "item.mcda.soul_robe_leggings":                 "Leotardos de Alma",
+    "item.mcda.soul_robe_boots":                    "Cinturón de Alma",
+
+    "item.mcda.soul_robe.tooltip_1":                "Bajo una luz particular, las almas",
+    "item.mcda.soul_robe.tooltip_2":                "tejidas en la tela de la Túnica de Alma",
+    "item.mcda.soul_robe.tooltip_3":                "brillan con poder.",
+
+    "item.mcda.souldancer_robe_helmet":             "Capucha de Bailealmas",
+    "item.mcda.souldancer_robe_chestplate":         "Túnica de Bailealmas",
+    "item.mcda.souldancer_robe_leggings":           "Leotardos de Bailealmas",
+    "item.mcda.souldancer_robe_boots":              "Cinturón de Bailealmas",
+
+    "item.mcda.souldancer_robe.tooltip_1":          "La Túnica de Bailealmas cobra vida",
+    "item.mcda.souldancer_robe.tooltip_2":          "en la luz, como si las almas",
+    "item.mcda.souldancer_robe.tooltip_3":          "dentro estuvieran bailando por toda la eternidad.",
+
+    "item.mcda.souldancer_robe.effect.tooltip_1":   "Gracia de Bailealmas",
+    "item.mcda.souldancer_robe.effect.tooltip_2":   "Experiencia de Bailealmas",
+
+    "item.mcda.spelunker_armor_helmet":             "Casco de Espeleólogo",
+    "item.mcda.spelunker_armor_chestplate":         "Chaleco de Espeleólogo",
+    "item.mcda.spelunker_armor_leggings":           "Leotardos de Espeleólogo",
+    "item.mcda.spelunker_armor_boots":              "Brazaletes de Espeleólogo",
+
+    "item.mcda.spelunker_armor.tooltip_1":          "La Armadura de Espeleólogo es usada por aquellos",
+    "item.mcda.spelunker_armor.tooltip_2":          "que se adentran en las profundidades más oscuras del",
+    "item.mcda.spelunker_armor.tooltip_3":          "Mundo Superior.",
+
+    "item.mcda.cave_crawler_helmet":                "Casco de Rastreador de Cavernas",
     "item.mcda.cave_crawler_chestplate":            "Cave Crawler Vest",
     "item.mcda.cave_crawler_leggings":              "Cave Crawler Leggings",
     "item.mcda.cave_crawler_boots":                 "Cave Crawler Boots",
