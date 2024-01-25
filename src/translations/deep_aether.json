@@ -1,7 +1,7 @@
 {
 	"htp_metadata_version": "1.0.0",
-	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: Askaban",
-	"aether.pro_tips.line.deep_aether.deep_aether_tips": "§bLos tips del Aether Profundo son celestes!",
+	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: Askaban\nProofreaders: ElocinDev",
+	"aether.pro_tips.line.deep_aether.deep_aether_tips": "§bLos tips de Deep Aether son celestes!",
 	"aether.pro_tips.line.deep_aether.squashes": "§bHas tratado alguna vez de encantar semillas de calabaza en un Altar?",
 	"aether.pro_tips.line.deep_aether.poison_squashes": "§bLos Squashes se vuelven púrpura cuando se tiran en veneno.",
 	"aether.pro_tips.line.deep_aether.sterling_aercloud": "§bLas Aernubes estériles raramente pueden encontrarse cerca del límite de construcción.",
@@ -21,7 +21,7 @@
 	"gui.deep_aether.spooky_ring": "Podrían haber consecuencias espeluznantes...",
 	"lore.item.deep_aether.spooky_ring": "Infliges más daño durante la noche hacia la medianoche, con un máximo de hasta 2 puntos de daño adicionales.",
 	"gui.deep_aether.slider_ring": "Incrementa tu velocidad cuando tu salud es baja\nIncremento actual: ",
-	"lore.item.deep_aether.slider_eye": "Una parte poderosa del Slider que cae al derrotar a un Slider sin recibir un solo golpe. Te permite golpear el suelo cuando estás a dos bloques o más sobre el suelo, causando repulsión y daño a los enemigos cercanos. ",
+	"lore.item.deep_aether.slider_eye": "Una parte poderosa del Slider que cae al derrotarlo sin recibir un solo golpe. Te permite golpear el suelo cuando estás a dos bloques o más sobre el suelo, causando repulsión y daño a los enemigos cercanos. ",
 	"item.deep_aether.slider_eye": "Ojo del Slider",
 	"lore.item.deep_aether.medal_of_honor": "Un colgante que cae cuando se derrota una Reina Valkyria sin recibir un solo golpe. Usarlo te otorga a las Valkyrias' Gracia que proporciona resistencia contra criaturas malignas. ",
 	"item.deep_aether.medal_of_honor": "Medalla de Honor",
@@ -53,7 +53,7 @@
 	"block.deep_aether.aersmog": "Aersmog",
 	"lore.block.deep_aether.aersmog": "Este bloque venenoso tiene propiedades similares a las Aerclouds y es el producto de la mezcla de Agua y Veneno.",
 	
-	"block.deep_aether.chromatic_aercloud": "§eA§ae§br§9c§dl§co§6u§ed §cC§6r§eo§am§ba§9t§di§cc§6o",
+	"block.deep_aether.chromatic_aercloud": "§eA§ae§br§9o§dn§cu§6b§ee §cC§6r§eo§am§ba§9t§di§cc§6a",
 	"lore.block.deep_aether.chromatic_aercloud": "Resultado de encantar un Aercloud Estéril en un Altar. Se utiliza para crear un lingote Stratus.",
 	"block.deep_aether.sterling_aercloud": "Aercloud Estéril",
 	"lore.block.deep_aether.sterling_aercloud": "Este Aercloud se encuentra muy arriba, donde es difícil de alcanzar. Cuando se pisa, un relámpago lo convierte en un Aercloud Frío. Puede ser encantado en un altar para convertirse en un Aercloud Cromático.",
@@ -143,7 +143,7 @@
 	"block.deep_aether.roseroot_pressure_plate": "Placa de Presión de Raíz de Rosa",
 	"lore.block.deep_aether.roseroot_pressure_plate": "Fabricada con Tablones de Raíz de Rosa. Una placa de presión de madera utilizada para activar mecanismos y redstone.",
 	"subtitles.music_disc_a_morning_wish": "",
-	"block.deep_aether.skyjade_ore": "Menas de Jade Celestial",
+	"block.deep_aether.skyjade_ore": "Mineral de Jade Celestial",
 	"lore.block.deep_aether.skyjade_ore": "Una rara mena que suelta Gemas de Jade Celestial al romperse con herramientas de hierro.",
 	"block.deep_aether.stripped_roseroot_wall": "Muro de Raíz de Rosa Pelada",
 
@@ -741,10 +741,6 @@
 
 	"fluid_type.deep_aether.poison_fluid": "Veneno",
 	"block.deep_aether.poison": "Veneno",
-
-
-
-
 
 	"item.deep_aether.skyjade_shield": "Escudo de Jade Celestial",
 	"item.deep_aether.stratus_shield": "Escudo de Estrato",
