@@ -10,7 +10,7 @@ languages = ['es_es', 'es_ar', 'es_uy', 'es_cl', 'es_mx', 'es_ve']
 mcmeta_content = {
     "pack": {
         "pack_format": 10,
-        "description": "%NAME Spanish Language Pack by Hispanic Translation Project"
+        "description": "%NAME Spanish Language Pack by Hispanic Translation Team"
     }
 }
 
@@ -64,7 +64,7 @@ def create_resource_pack(json_file, total_files, current_index):
 
     for lang in languages:
         lang_content = content
-        
+
         if lang in slang_languages:
             for key, value in lang_content.items():
                 if isinstance(value, str):
