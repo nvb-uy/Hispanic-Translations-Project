@@ -30,7 +30,7 @@ slang_replacements = [
 
 aruy_replacements = [
         ("Losa", "Baldosa"),
-        
+
         (" tienes", " tenés"),
         (" quieres ", " querés"),
         (" vosotros", " ustedes"),
@@ -64,12 +64,12 @@ def create_resource_pack(json_file, total_files, current_index):
 
     for lang in languages:
         lang_content = content
-
+        
         if lang in slang_languages:
             for key, value in lang_content.items():
                 if isinstance(value, str):
-                    if value == "es_ar" or value == "es_uy":
-                        lang_content[key] = replaceSlang(value, aruy_replacements)
+                    if lang == "es_ar" or lang == "es_uy":
+                        value = replaceSlang(value, aruy_replacements)
 
                     lang_content[key] = replaceSlang(value, slang_replacements)
         
