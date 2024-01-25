@@ -7,7 +7,7 @@
     "item.mcda.archers_helmet":                     "Capucha de Arquero",
     "item.mcda.archers_chestplate":                 "Chaleco de Arquero",
     "item.mcda.archers_leggings":                   "Pantalones de Arquero",
-    "item.mcda.archers_boots":                      "Cinturón de Arquero",
+    "item.mcda.archers_boots":                      "Botas de Arquero",
   
     "item.mcda.archers.tooltip_1":                  "Preferido por guerreros humildes, es barato",
     "item.mcda.archers.tooltip_2":                  "de hacer y aún detiene una espada.",
@@ -17,7 +17,7 @@
     "item.mcda.beehive_armor_helmet":               "Casco de Colmena",
     "item.mcda.beehive_armor_chestplate":           "Pechera de Colmena",
     "item.mcda.beehive_armor_leggings":             "Leotardos de Colmena",
-    "item.mcda.beehive_armor_boots":                "Muslera de Colmena",
+    "item.mcda.beehive_armor_boots":                "Botas de Colmena",
   
     "item.mcda.beehive_armor.tooltip_1":            "La Armadura de Colmena zumba con el",
     "item.mcda.beehive_armor.tooltip_2":            "poder concentrado de innumerables abejas.",
@@ -27,7 +27,7 @@
     "item.mcda.beenest_armor_helmet":               "Casco de Nido de Abejas",
     "item.mcda.beenest_armor_chestplate":           "Pechera de Nido de Abejas",
     "item.mcda.beenest_armor_leggings":             "Leotardos de Nido de Abejas",
-    "item.mcda.beenest_armor_boots":                "Muslera de Nido de Abejas",
+    "item.mcda.beenest_armor_boots":                "Botas de Nido de Abejas",
   
     "item.mcda.beenest_armor.tooltip_1":            "Siempre parece haber un ligero",
     "item.mcda.beenest_armor.tooltip_2":            "zumbido alrededor de la Armadura de Nido de Abejas. O",
@@ -58,7 +58,7 @@
     "item.mcda.champions_armor_helmet":             "Casco del Campeón",
     "item.mcda.champions_armor_chestplate":         "Pechera del Campeón",
     "item.mcda.champions_armor_leggings":           "Leotardos del Campeón",
-    "item.mcda.champions_armor_boots":              "Muslera del Campeón",
+    "item.mcda.champions_armor_boots":              "Botas del Campeón",
   
     "item.mcda.champions_armor.tooltip_1":          "Otorgado a los campeones del",
     "item.mcda.champions_armor.tooltip_2":          "Overworld por los aldeanos libres",
@@ -69,7 +69,7 @@
     "item.mcda.heros_armor_helmet":                 "Casco del Héroe",
     "item.mcda.heros_armor_chestplate":             "Pechera del Héroe",
     "item.mcda.heros_armor_leggings":               "Leotardos del Héroe",
-    "item.mcda.heros_armor_boots":                  "Muslera del Héroe",
+    "item.mcda.heros_armor_boots":                  "Botas del Héroe",
   
     "item.mcda.heros_armor.tooltip_1":              "Solo otorgada a los héroes de más alto calibre, esta armadura es un precioso regalo",
     "item.mcda.heros_armor.tooltip_2":              "de los Aldeanos.",
@@ -136,7 +136,7 @@
     "item.mcda.grim_armor_helmet":                  "Casco Siniestro",
     "item.mcda.grim_armor_chestplate":              "Peto Siniestro",
     "item.mcda.grim_armor_leggings":                "Leotardos Siniestros",
-    "item.mcda.grim_armor_boots":                   "Rodilleras Siniestras",
+    "item.mcda.grim_armor_boots":                   "Botas Siniestras",
     
     "item.mcda.grim_armor.tooltip_1":               "Esta armadura invoca un sentimiento de terror",
     "item.mcda.grim_armor.tooltip_2":               "para quien la lleva y para",
@@ -145,7 +145,7 @@
     "item.mcda.wither_armor_helmet":                "Casco Marchitador",
     "item.mcda.wither_armor_chestplate":            "Peto Marchitador",
     "item.mcda.wither_armor_leggings":              "Leotardos Marchitadores",
-    "item.mcda.wither_armor_boots":                 "Rodilleras Marchitadoras",
+    "item.mcda.wither_armor_boots":                 "Botas Marchitadoras",
     
     "item.mcda.wither_armor.tooltip_1":             "Forjada con partes de enemigos caídos,",
     "item.mcda.wither_armor.tooltip_2":             "fue hecha para aterrorizar",
@@ -156,7 +156,7 @@
     "item.mcda.guards_armor_helmet":                "Casco de Guardia",
     "item.mcda.guards_armor_chestplate":            "Peto de Guardia",
     "item.mcda.guards_armor_leggings":              "Leotardos de Guardia",
-    "item.mcda.guards_armor_boots":                 "Musleras de Guardia",
+    "item.mcda.guards_armor_boots":                 "Botass de Guardia",
     
     "item.mcda.guards_armor.tooltip_1":             "Armadura barata hecha en masa,",
     "item.mcda.guards_armor.tooltip_2":             "es una vista común en",
@@ -165,7 +165,7 @@
     "item.mcda.curious_armor_helmet":               "Casco Curioso",
     "item.mcda.curious_armor_chestplate":           "Peto Curioso",
     "item.mcda.curious_armor_leggings":             "Leotardos Curiosos",
-    "item.mcda.curious_armor_boots":                "Musleras Curiosas",
+    "item.mcda.curious_armor_boots":                "Botass Curiosas",
     
     "item.mcda.curious_armor.tooltip_1":            "Nadie sabe de dónde vino esta extraña",
     "item.mcda.curious_armor.tooltip_2":            "armadura, pero te parece",
@@ -176,7 +176,7 @@
     "item.mcda.mercenary_armor_helmet":             "Casco Mercenario",
     "item.mcda.mercenary_armor_chestplate":         "Peto Mercenario",
     "item.mcda.mercenary_armor_leggings":           "Leotardos Mercenarios",
-    "item.mcda.mercenary_armor_boots":              "Rodilleras Mercenarias",
+    "item.mcda.mercenary_armor_boots":              "Botas Mercenarias",
     
     "item.mcda.mercenary_armor.tooltip_1":          "Preferida por aquellos que buscan",
     "item.mcda.mercenary_armor.tooltip_2":          "ahorrar algo de dinero. Carece de",
@@ -185,7 +185,7 @@
     "item.mcda.renegade_armor_helmet":              "Casco Renegado",
     "item.mcda.renegade_armor_chestplate":          "Peto Renegado",
     "item.mcda.renegade_armor_leggings":            "Leotardos Renegados",
-    "item.mcda.renegade_armor_boots":               "Rodilleras Renegadas",
+    "item.mcda.renegade_armor_boots":               "Botas Renegadas",
     
     "item.mcda.renegade_armor.tooltip_1":           "Esta armadura fue un buen pago",
     "item.mcda.renegade_armor.tooltip_2":           "para mercenarios contratados para proteger",
@@ -196,7 +196,7 @@
     "item.mcda.hungry_horror_helmet":               "Casco del Horror Hambriento",
     "item.mcda.hungry_horror_chestplate":           "Peto del Horror Hambriento",
     "item.mcda.hungry_horror_leggings":             "Leotardos del Horror Hambriento",
-    "item.mcda.hungry_horror_boots":                "Rodilleras del Horror Hambriento",
+    "item.mcda.hungry_horror_boots":                "Botas del Horror Hambriento",
     
     "item.mcda.hungry_horror.tooltip_1":            "Cuando llevas esta armadura,",
     "item.mcda.hungry_horror.tooltip_2":            "el sonido de los gritos llena",
@@ -230,10 +230,10 @@
     "item.mcda.shadow_walker_armor.effect.tooltip_1":   "Sin Daño por Caída",
     "item.mcda.shadow_walker_armor.effect.tooltip_2":   "Correr",
     
-    "item.mcda.phantom_armor_helmet":               "Casco Fantasma",
-    "item.mcda.phantom_armor_chestplate":           "Peto Fantasma",
-    "item.mcda.phantom_armor_leggings":             "Leotardos Fantasma",
-    "item.mcda.phantom_armor_boots":                "Rodilleras Fantasma",
+    "item.mcda.phantom_armor_helmet":               "Casco Fantasmales",
+    "item.mcda.phantom_armor_chestplate":           "Peto Fantasmales",
+    "item.mcda.phantom_armor_leggings":             "Leotardos Fantasmales",
+    "item.mcda.phantom_armor_boots":                "Botas Fantasmales",
     
     "item.mcda.phantom_armor.tooltip_1":            "Esta armadura, creada con huesos",
     "item.mcda.phantom_armor.tooltip_2":            "de Fantasmas, es una vista aterradora",
@@ -256,7 +256,7 @@
     "item.mcda.plate_armor_helmet":                 "Casco de Placas",
     "item.mcda.plate_armor_chestplate":             "Peto de Placas",
     "item.mcda.plate_armor_leggings":               "Leotardos de Placas",
-    "item.mcda.plate_armor_boots":                  "Musleras de Placas",
+    "item.mcda.plate_armor_boots":                  "Botas de Placas",
   
     "item.mcda.plate_armor.tooltip_1":              "La Armadura de Placas convierte al soldado promedio",
     "item.mcda.plate_armor.tooltip_2":              "en una fortaleza pero reduce la",
@@ -265,7 +265,7 @@
     "item.mcda.full_metal_armor_helmet":            "Casco de Metal Completo",
     "item.mcda.full_metal_armor_chestplate":        "Peto de Metal Completo",
     "item.mcda.full_metal_armor_leggings":          "Leotardos de Metal Completo",
-    "item.mcda.full_metal_armor_boots":             "Musleras de Metal Completo",
+    "item.mcda.full_metal_armor_boots":             "Botas de Metal Completo",
   
     "item.mcda.full_metal_armor.tooltip_1":         "La Armadura de Metal Completo está destinada a",
     "item.mcda.full_metal_armor.tooltip_2":         "los grandes defensores del Mundo Superior.",
@@ -273,7 +273,7 @@
     "item.mcda.reinforced_mail_helmet":             "Casco de Malla Reforzada",
     "item.mcda.reinforced_mail_chestplate":         "Peto de Malla Reforzada",
     "item.mcda.reinforced_mail_leggings":           "Leotardos de Malla Reforzada",
-    "item.mcda.reinforced_mail_boots":              "Rodilleras de Malla Reforzada",
+    "item.mcda.reinforced_mail_boots":              "Botas de Malla Reforzada",
   
     "item.mcda.reinforced_mail.tooltip_1":          "Usada principalmente por aventureros casuales,",
     "item.mcda.reinforced_mail.tooltip_2":          "la Malla Reforzada es una vista común",
@@ -282,7 +282,7 @@
     "item.mcda.stalwart_armor_helmet":              "Casco Inquebrantable",
     "item.mcda.stalwart_armor_chestplate":          "Peto Inquebrantable",
     "item.mcda.stalwart_armor_leggings":            "Leotardos Inquebrantables",
-    "item.mcda.stalwart_armor_boots":               "Rodilleras Inquebrantables",
+    "item.mcda.stalwart_armor_boots":               "Botas Inquebrantables",
   
     "item.mcda.stalwart_armor.tooltip_1":           "Esta armadura confiable es lo suficientemente robusta",
     "item.mcda.stalwart_armor.tooltip_2":           "para ser transmitida durante generaciones.",
@@ -314,7 +314,7 @@
     "item.mcda.white_mystery_armor_helmet":         "Casco Misterio Blanco",
     "item.mcda.white_mystery_armor_chestplate":     "Peto Misterio Blanco",
     "item.mcda.white_mystery_armor_leggings":       "Leotardos Misterio Blanco",
-    "item.mcda.white_mystery_armor_boots":          "Musleras Misterio Blanco",
+    "item.mcda.white_mystery_armor_boots":          "Botas Misterio Blanco",
   
     "item.mcda.mystery_armor.tooltip_1":            "Algunos herreros ven la influencia del diseño",
     "item.mcda.mystery_armor.tooltip_2":            "de los Gólems de Hierro en esta",
@@ -325,26 +325,26 @@
     "item.mcda.blue_mystery_armor_helmet":          "Casco Misterio Azul",
     "item.mcda.blue_mystery_armor_chestplate":      "Peto Misterio Azul",
     "item.mcda.blue_mystery_armor_leggings":        "Leotardos Misterio Azul",
-    "item.mcda.blue_mystery_armor_boots":           "Musleras Misterio Azul",
+    "item.mcda.blue_mystery_armor_boots":           "Botas Misterio Azul",
   
     "item.mcda.green_mystery_armor_helmet":         "Casco Misterio Verde",
     "item.mcda.green_mystery_armor_chestplate":     "Peto Misterio Verde",
     "item.mcda.green_mystery_armor_leggings":       "Leotardos Misterio Verde",
-    "item.mcda.green_mystery_armor_boots":          "Musleras Misterio Verde",
+    "item.mcda.green_mystery_armor_boots":          "Botas Misterio Verde",
   
     "item.mcda.purple_mystery_armor_helmet":        "Casco Misterio Púrpura",
     "item.mcda.purple_mystery_armor_chestplate":    "Peto Misterio Púrpura",
     "item.mcda.purple_mystery_armor_leggings":      "Leotardos Misterio Púrpura",
-    "item.mcda.purple_mystery_armor_boots":         "Musleras Misterio Púrpura",
+    "item.mcda.purple_mystery_armor_boots":         "Botas Misterio Púrpura",
   
     "item.mcda.red_mystery_armor_helmet":           "Casco Misterio Rojo",
     "item.mcda.red_mystery_armor_chestplate":       "Peto Misterio Rojo",
     "item.mcda.red_mystery_armor_leggings":         "Leotardos Misterio Rojo",
-    "item.mcda.red_mystery_armor_boots":            "Musleras Misterio Rojo",
+    "item.mcda.red_mystery_armor_boots":            "Botas Misterio Rojo",
   
     "item.mcda.scale_mail_chestplate":              "Peto de Malla de Escamas",
     "item.mcda.scale_mail_leggings":                "Leotardos de Malla de Escamas",
-    "item.mcda.scale_mail_boots":                   "Taseta de Malla de Escamas",
+    "item.mcda.scale_mail_boots":                   "Botas de Malla de Escamas",
   
     "item.mcda.scale_mail.tooltip_1":               "Esta armadura, forjada cerca de las costas",
     "item.mcda.scale_mail.tooltip_2":               "de un gran mar, fue inspirada por las",
@@ -383,7 +383,7 @@
     "item.mcda.soul_robe_helmet":                   "Capucha de Alma",
     "item.mcda.soul_robe_chestplate":               "Túnica de Alma",
     "item.mcda.soul_robe_leggings":                 "Leotardos de Alma",
-    "item.mcda.soul_robe_boots":                    "Cinturón de Alma",
+    "item.mcda.soul_robe_boots":                    "Botas de Alma",
 
     "item.mcda.soul_robe.tooltip_1":                "Bajo una luz particular, las almas",
     "item.mcda.soul_robe.tooltip_2":                "tejidas en la tela de la Túnica de Alma",
@@ -392,7 +392,7 @@
     "item.mcda.souldancer_robe_helmet":             "Capucha de Bailealmas",
     "item.mcda.souldancer_robe_chestplate":         "Túnica de Bailealmas",
     "item.mcda.souldancer_robe_leggings":           "Leotardos de Bailealmas",
-    "item.mcda.souldancer_robe_boots":              "Cinturón de Bailealmas",
+    "item.mcda.souldancer_robe_boots":              "Botas de Bailealmas",
 
     "item.mcda.souldancer_robe.tooltip_1":          "La Túnica de Bailealmas cobra vida",
     "item.mcda.souldancer_robe.tooltip_2":          "en la luz, como si las almas",
@@ -404,7 +404,7 @@
     "item.mcda.spelunker_armor_helmet":             "Casco de Espeleólogo",
     "item.mcda.spelunker_armor_chestplate":         "Chaleco de Espeleólogo",
     "item.mcda.spelunker_armor_leggings":           "Leotardos de Espeleólogo",
-    "item.mcda.spelunker_armor_boots":              "Brazaletes de Espeleólogo",
+    "item.mcda.spelunker_armor_boots":              "Botas de Espeleólogo",
 
     "item.mcda.spelunker_armor.tooltip_1":          "La Armadura de Espeleólogo es usada por aquellos",
     "item.mcda.spelunker_armor.tooltip_2":          "que se adentran en las profundidades más oscuras del",
@@ -471,7 +471,7 @@
 
 
 
-    
+
     "item.mcda.cave_crawler_chestplate":            "Cave Crawler Vest",
     "item.mcda.cave_crawler_leggings":              "Cave Crawler Leggings",
     "item.mcda.cave_crawler_boots":                 "Cave Crawler Boots",

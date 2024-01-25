@@ -45,8 +45,12 @@ If the mod already exists, find its json file under src/translations.
 If not, create a new json file with the mod's id as the name. Then add its translated entries.
 
 
-Important, add the first entry `"htp_metadata_version": "1"`.
-If it's the first time the file is created, make it 1. If it's an update of an existing translation, increment its value by 1.
+Important, add the metadata entries if they don't exist, they're used by the build script when generating a resourcepack.
+### Example Metadata Entries:
+```json
+"htp_metadata_version": "1.0.0".
+"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: (Your Name)"
+```
 
 ## Review Process
 After doing a PR, you will be reviewed by approved moderators, and if needed, changes will be requested or made.
@@ -57,3 +61,7 @@ The general translation rules are:
 - **Always think about what you'd like to see in-game.** The translation should be thought from the perspective of a native speaker user.
 
 - **No aggressive translations.** Spanglish is more than welcome, not all text should be translated. Like unique names, such as the mod name, or items with names like "Thunderwrath" (DO NOT translate that to furia del trueno, please.)
+
+## Slang
+Default slang should be Spain's Spanish, the build script will handle slang differences and replace them, making it friendly for all countries.
+For example, "Peto" should be the main word for chestplate, which will get replaced to "Pechera" within the build script in the specific countries that use it.

@@ -3,6 +3,8 @@ import json
 import shutil
 import zipfile
 
+# --------------------------------------------------------------------------------------------------------------- #
+
 languages = ['es_es', 'es_ar', 'es_uy', 'es_cl', 'es_mx', 'es_ve']
 
 mcmeta_content = {
@@ -16,7 +18,31 @@ translations_dir = './src/translations'
 output_dir = './build/out'
 pack_image_path = './src/pack.png'
 
-os.makedirs(output_dir, exist_ok=True)
+slang_languages = ["es_ar", "es_uy", "es_cl", "es_mx"]
+
+slang_replacements = [
+        ("Cristal", "Vidrio"), 
+        ("Peto", "Pechera"),
+        ("Leotardo", "Pantalones"),
+        ("Rodilleras", "Botas"),
+        ("Coger", "Agarrar")
+]
+
+aruy_replacements = [
+        ("Losa", "Baldosa"),
+        
+        (" tienes", " tenés"),
+        (" quieres ", " querés"),
+        (" vosotros", " ustedes"),
+        (" tú", " vos")
+]
+
+# --------------------------------------------------------------------------------------------------------------- #
+
+def replaceSlang(text, replacements):
+    for slang, replacement in replacements:
+        text = text.replace(slang, replacement)
+    return text
 
 def create_resource_pack(json_file, total_files, current_index):
     base_path = './src/translations/'
@@ -37,6 +63,16 @@ def create_resource_pack(json_file, total_files, current_index):
     credits = content.get("htp_metadata_credits", "This translation was made by the HTP (Hispanic Translations Project) Team")
 
     for lang in languages:
+        lang_content = content
+
+        if lang in slang_languages:
+            for key, value in lang_content.items():
+                if isinstance(value, str):
+                    if value == "es_ar" or value == "es_uy":
+                        lang_content[key] = replaceSlang(value, aruy_replacements)
+
+                    lang_content[key] = replaceSlang(value, slang_replacements)
+        
         with open(f'{lang_dir}/{lang}.json', 'w', encoding='utf-8') as lang_file:
             json.dump(content, lang_file, ensure_ascii=False, indent=4)
         print(f"[{json_file}] Written language file for {lang}")
@@ -62,6 +98,10 @@ def create_resource_pack(json_file, total_files, current_index):
 
     percentage_done = (current_index + 1) / total_files * 100
     print(f"Completed '{json_file}'. Progress: {percentage_done:.2f}%")
+
+# --------------------------------------------------------------------------------------------------------------- #
+
+os.makedirs(output_dir, exist_ok=True)
 
 json_files = [f for f in os.listdir(translations_dir) if f.endswith('.json')]
 total_files = len(json_files)
