@@ -31,84 +31,84 @@
     "item.minecells.dimensional_rune.only_usable_in_overworld": "Solo puedes usar esta runa en el Mundo Superior",
     "item.minecells.dimensional_rune.not_visited": "Solo puedes usar esta runa para acceder a un área que ya has visitado",
     "item.minecells.prison_doorway": [
-      "",
+	  "Portal del",
       {
-        "text": "Cuartel de Prisioneros ",
+        "text": "Cuartel de los Prisioneros ",
         "color": "#54EF88"
       },
-      "Entrada"
+      ""
     ],
     "item.minecells.promenade_doorway": [
-      "",
+	  "Portal del",
       {
         "text": "Paseo de los Condenados ",
         "color": "#93FFF7"
       },
-      "Entrada"
+      ""
     ],
     "item.minecells.insufferable_crypt_doorway": [
-      "",
+	  "Portal de la",
       {
-        "text": "Cripta Insoportable ",
+        "text": " Cripta Insoportable ",
         "color": "#FF4CF4"
       },
-      "Entrada"
+      ""
     ],
     "item.minecells.ramparts_doorway": [
-      "",
+	  "Portal del",
       {
-        "text": "Baluarte ",
+        "text": " Baluarte ",
         "color": "#FFC540"
       },
-      "Entrada"
+      ""
     ],
     "item.minecells.black_bridge_doorway": [
-      "",
+      "Portal del",
       {
-        "text": "Puente Negro ",
+        "text": " Puente Negro ",
         "color": "#623CC9"
       },
-      "Entrada"
+      ""
     ],
     "item.minecells.prison_dimensional_rune": [
-      "",
+	  "Runa Dimensional del",
       {
-        "text": "Cuartel de Prisioneros ",
+        "text": " Cuartel de los Prisioneros ",
         "color": "#54EF88"
       },
-      "Runa Dimensional"
+      ""
     ],
     "item.minecells.promenade_dimensional_rune": [
-      "",
+	  "Runa Dimensional del",
       {
-        "text": "Paseo de los Condenados ",
+        "text": " Paseo de los Condenados ",
         "color": "#93FFF7"
       },
-      "Runa Dimensional"
+      ""
     ],
     "item.minecells.insufferable_crypt_dimensional_rune": [
-      "",
+      "Runa Dimensional del",
       {
-        "text": "Cripta Insoportable ",
+        "text": " Cripta Insoportable ",
         "color": "#FF4CF4"
       },
-      "Runa Dimensional"
+      ""
     ],
     "item.minecells.ramparts_dimensional_rune": [
-      "",
+      "Runa Dimensional del",
       {
-        "text": "Baluarte ",
+        "text": " Baluarte ",
         "color": "#FFC540"
       },
-      "Runa Dimensional"
+      ""
     ],
     "item.minecells.black_bridge_dimensional_rune": [
-      "",
+      "Runa Dimensional del",
       {
-        "text": "Puente Negro ",
+        "text": " Puente Negro ",
         "color": "#623CC9"
       },
-      "Runa Dimensional"
+      ""
     ],
     "item.minecells.assassins_dagger.description": "Inflige daño crítico (+%sHP)\ncuando golpea enemigos por la espalda",
     "item.minecells.blood_sword.description": "Aplica Sangrado a los enemigos.\nEl efecto se acumula hasta el nivel III",
@@ -147,7 +147,7 @@
     "dimension.minecells.ramparts": "Baluarte",
     "dimension.minecells.black_bridge": "Puente Negro",
     "travelerstitles.minecraft.overworld": "Mundo Superior",
-    "travelerstitles.minecells.prison": "Cuartel de Prisioneros",
+    "travelerstitles.minecells.prison": "Cuartel de los Prisioneros",
     "travelerstitles.minecells.insufferable_crypt": "Cripta Insoportable",
     "travelerstitles.minecells.promenade": "Paseo de los Condenados",
 	"travelerstitles.minecells.ramparts": "Murallas",
