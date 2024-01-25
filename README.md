@@ -30,6 +30,15 @@ We are a small team of native spanish speakers
 
 - None yet, why don't you contribute? :D
 
+# Building
+
+To save time, the translation process is done in a single json file under src/translations, named just like the mod's id. Then, using the build.py you can create the resourcepacks.
+It will clone the translations and put them in the respective files, then swap the slang words into their respective forms, like for example "Peto" and "Pechera" between different languages.
+
+```python
+python build.py
+```
+
 # Contributing
 
 If the mod already exists, find its json file under src/translations.
