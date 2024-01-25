@@ -21,15 +21,15 @@ pack_image_path = './resources/pack.png'
 slang_languages = ["es_ar", "es_uy", "es_cl", "es_mx"]
 
 slang_replacements = [
-        ("Cristal", "Vidrio"), 
         ("Peto", "Pechera"),
         ("Leotardo", "Pantalones"),
-        ("Rodilleras", "Botas"),
+        ("Rodillera", "Bota"),
         ("Coger", "Agarrar")
 ]
 
 aruy_replacements = [
         ("Losa", "Baldosa"),
+        ("Cristal", "Vidrio"),
 
         (" tienes", " tenés"),
         (" quieres ", " querés"),
