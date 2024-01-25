@@ -24,7 +24,7 @@ We are a small team of native spanish speakers
 
 - ElocinDev (Founder, Proofreader and Translator)
 - Askaban (Translator)
-- VRDex (Translator and Proofreader)
+- KS_Debfyed (Translator and Proofreader)
 
 ## Contributors
 
