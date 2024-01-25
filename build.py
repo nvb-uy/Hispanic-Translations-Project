@@ -16,7 +16,7 @@ mcmeta_content = {
 
 translations_dir = './src/translations'
 output_dir = './build/out'
-pack_image_path = './src/pack.png'
+pack_image_path = './resources/pack.png'
 
 slang_languages = ["es_ar", "es_uy", "es_cl", "es_mx"]
 
