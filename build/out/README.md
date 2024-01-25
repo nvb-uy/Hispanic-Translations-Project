@@ -1,0 +1,1 @@
+After building using the python script, all translation packs will appear here.

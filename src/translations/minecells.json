@@ -1,0 +1,230 @@
+
+{
+    "htp_metadata_version": "1.0.0",
+	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+
+    "item.minecells.sweeper_spawn_egg": "Huevo de Generación de Sweeper",
+    "item.minecells.buzzcutter_spawn_egg": "Huevo de Generación de Buzzcutter",
+    "itemGroup.minecells.minecells.tab.general": "General",
+    "itemGroup.minecells.minecells.tab.combat": "Combate",
+    "itemGroup.minecells.minecells.tab.spawn_eggs": "Huevos de Generación",
+    "itemGroup.minecells.minecells.button.wiki": "Leer la Wiki",
+    "itemGroup.minecells.minecells.button.discord": "Únete al Discord de Mim1q",
+    "itemGroup.minecells.minecells.button.kofi": "Apoya mis mods en Ko-Fi",
+    "block.minecells.kingdom_portal_core": "¡RÓMPEME!",
+    "block.minecells.return_stone.title": "Regresar a la superficie",
+    "block.minecells.runic_vine": "Vid Rúnica",
+    "block.minecells.runic_vine_plant.message": "Requiere la Runa de Vid para activarse",
+    "block.minecells.rift.description": "Regresar al Mundo Superior",
+    "block.minecells.shockwave_flame_player": "Llama de Onda de Choque del Jugador",
+    "block.minecells.shockwave_flame": "Llama de Onda de Choque",
+    "item.minecells.concierge_respawn_rune": "Runa de Resurgimiento de Concierge",
+    "item.minecells.vine_rune": "Runa de Vid",
+    "item.minecells.reset_rune": "Runa de Reinicio",
+    "item.minecells.reset_rune.tooltip": "Reinicia las Runas de Generación en una dimensión",
+    "item.minecells.prison_doorway.description": "Colócala contra una pared vacía de 3x3",
+    "item.minecells.prison_doorway.visited": "%s ya visitó el área cercana: %s",
+    "item.minecells.prison_doorway.not_visited": "%s aún no ha visitado el área cercana: %s",
+    "item.minecells.prison_doorway.bound": "Coordenadas vinculadas: %s",
+    "item.minecells.prison_doorway.not_bound": "Coordenadas no vinculadas",
+    "item.minecells.dimensional_rune.tooltip": "Usa en una Entrada en el Mundo Superior\npara cambiar su destino",
+    "item.minecells.dimensional_rune.only_usable_in_overworld": "Solo puedes usar esta runa en el Mundo Superior",
+    "item.minecells.dimensional_rune.not_visited": "Solo puedes usar esta runa para acceder a un área que ya has visitado",
+    "item.minecells.prison_doorway": [
+      "",
+      {
+        "text": "Cuartel de Prisioneros ",
+        "color": "#54EF88"
+      },
+      "Entrada"
+    ],
+    "item.minecells.promenade_doorway": [
+      "",
+      {
+        "text": "Paseo de los Condenados ",
+        "color": "#93FFF7"
+      },
+      "Entrada"
+    ],
+    "item.minecells.insufferable_crypt_doorway": [
+      "",
+      {
+        "text": "Cripta Insoportable ",
+        "color": "#FF4CF4"
+      },
+      "Entrada"
+    ],
+    "item.minecells.ramparts_doorway": [
+      "",
+      {
+        "text": "Baluarte ",
+        "color": "#FFC540"
+      },
+      "Entrada"
+    ],
+    "item.minecells.black_bridge_doorway": [
+      "",
+      {
+        "text": "Puente Negro ",
+        "color": "#623CC9"
+      },
+      "Entrada"
+    ],
+    "item.minecells.prison_dimensional_rune": [
+      "",
+      {
+        "text": "Cuartel de Prisioneros ",
+        "color": "#54EF88"
+      },
+      "Runa Dimensional"
+    ],
+    "item.minecells.promenade_dimensional_rune": [
+      "",
+      {
+        "text": "Paseo de los Condenados ",
+        "color": "#93FFF7"
+      },
+      "Runa Dimensional"
+    ],
+    "item.minecells.insufferable_crypt_dimensional_rune": [
+      "",
+      {
+        "text": "Cripta Insoportable ",
+        "color": "#FF4CF4"
+      },
+      "Runa Dimensional"
+    ],
+    "item.minecells.ramparts_dimensional_rune": [
+      "",
+      {
+        "text": "Baluarte ",
+        "color": "#FFC540"
+      },
+      "Runa Dimensional"
+    ],
+    "item.minecells.black_bridge_dimensional_rune": [
+      "",
+      {
+        "text": "Puente Negro ",
+        "color": "#623CC9"
+      },
+      "Runa Dimensional"
+    ],
+    "item.minecells.assassins_dagger.description": "Inflige daño crítico (+%sHP)\ncuando golpea enemigos por la espalda",
+    "item.minecells.blood_sword.description": "Aplica Sangrado a los enemigos.\nEl efecto se acumula hasta el nivel III",
+    "item.minecells.cursed_sword.description": "Un golpe y estás muerto",
+    "item.minecells.tentacle.description": "Lanza el tentáculo, arrastrándote\nhacia tu objetivo",
+    "item.minecells.hattoris_katana.description": "Corta a través de los enemigos\nfrente a ti",
+    "item.minecells.broadsword": "Espada Ancha",
+    "item.minecells.balanced_blade": "Hoja Equilibrada",
+    "item.minecells.balanced_blade.description": "Inflige más daño con\ncada ataque consecutivo.\nMáx (+%sHP) a 10 acumulaciones",
+    "item.minecells.crowbar": "Palanca",
+    "item.minecells.crowbar.description": "Inflige daño crítico (+%sHP)\ndespués de romper una puerta",
+    "item.minecells.frost_blast": "Explosión Helada",
+    "item.minecells.frost_blast.description": "Congela a los enemigos frente a ti",
+    "item.minecells.nutcracker": "Cascanueces",
+    "item.minecells.nutcracker.description": "Inflige daño crítico (+%sHP)\na enemigos Congelados y Aturdidos",
+    "item.minecells.flint": "El Sílex",
+    "item.minecells.flint.description": "Envía una onda de choque frente a ti",
+    "item.minecells.spite_sword": "Espada de Rencor",
+    "item.minecells.spite_sword.description": "Inflige daño crítico (+%sHP)\nsi recientemente has recibido daño",
+    "item.minecells.phaser": "Teletransportador",
+    "item.minecells.phaser.description": "Teletranspórtate a un enemigo cercano,\natontándolo brevemente.\nTu próximo ataque inflige\ndaño adicional",
+    "item.minecells.hold": "Mantener ",
+    "item.minecells.ability_damage": "Daño: %sHP",
+    "item.minecells.ability_cooldown": "Recarga: %ss",
+    "entity.minecells.sweeper": "Sweeper",
+    "entity.minecells.buzzcutter": "Buzzcutter",
+    "entity.minecells.concierge": "Concierge",
+    "entity.minecells.concierge_obelisk": "Obelisco de Generación de Concierge",
+    "entity.minecells.spawner_rune": "Runa de Generación",
+    "effect.minecells.assassins_strength": "Asesinato",
+    "effect.minecells.stunned": "Aturdido",
+    "effect.minecells.frozen": "Congelado",
+    "death.attack.minecells.elevator.player": "%1$s fue aplastado por %2$s",
+    "death.attack.minecells.cursed.player": "%1$s sucumbió a una maldición",
+    "dimension.minecells.promenade": "Paseo de los Condenados",
+    "dimension.minecells.ramparts": "Baluarte",
+    "dimension.minecells.black_bridge": "Puente Negro",
+    "travelerstitles.minecraft.overworld": "Mundo Superior",
+    "travelerstitles.minecells.prison": "Cuartel de Prisioneros",
+    "travelerstitles.minecells.insufferable_crypt": "Cripta Insoportable",
+    "travelerstitles.minecells.promenade": "Paseo de los Condenados",
+	"travelerstitles.minecells.ramparts": "Murallas",
+	"travelerstitles.minecells.black_bridge": "Puente Negro",
+	"biome.minecells.promenade": "Paseo de los Condenados",
+	"biome.minecells.ramparts": "Murallas",
+	"biome.minecells.black_bridge": "Puente Negro",
+	"chat.minecells.version_mismatch.promenade": " - Reiniciar la dimensión \"minecells:promenade\"",
+	"chat.minecells.stuck_message": "\nParece que te has atascado en una de las dimensiones de Mine Cells. Has sido teletransportado a tu punto de aparición.",
+	"chat.minecells.wipe_try": [
+		"\n",
+		{
+		"text": "ADVERTENCIA: ",
+		"color": "#FF1111"
+		},
+		"Este comando borrará los datos de Mine Cells de todos los jugadores. Ejecútalo de nuevo para continuar.\n"
+	],
+	"chat.minecells.wipe_success": "Todos los datos de Mine Cells han sido borrados.",
+	"advancements.minecells.root": "Mine Cells",
+	"advancements.minecells.root.description": "Encuentra un portal a los Barracones de Prisioneros",
+	"advancements.minecells.prison": "Tras las rejas",
+	"advancements.minecells.prison.description": "Entra a los Barracones de Prisioneros",
+	"advancements.minecells.promenade": "Amo la serenidad...",
+	"advancements.minecells.promenade.description": "Llega al Paseo de los Condenados",
+	"advancements.minecells.insufferable_crypt": "Hasta las ratas evitan este lugar",
+	"advancements.minecells.insufferable_crypt.description": "Llega a la Cripta Insufrible",
+	"advancements.minecells.conjunctivius": "¿Algo en tu ojo?",
+	"advancements.minecells.conjunctivius.description": "Derrota al Conjunctivius",
+	"advancements.minecells.respawn_boss": "Nunca es suficiente",
+	"advancements.minecells.respawn_boss.description": "Reaparece un jefe de Mine Cells",
+	"advancements.minecells.elevator": "¡Aplastado!",
+	"advancements.minecells.elevator.description": "Aplasta a alguien mientras vas en un ascensor",
+	"advancements.minecells.vine_rune": "Jack y el frijol mágico",
+	"advancements.minecells.vine_rune.description": "Obtén una Runa de Vid",
+	"advancements.minecells.ramparts": "¡Una habitación con vistas!",
+	"advancements.minecells.ramparts.description": "Llega a las Murallas",
+	"advancements.minecells.black_bridge": "Por fin, un momento de descanso...",
+	"advancements.minecells.black_bridge.description": "Llega al Puente Negro",
+	"advancements.minecells.concierge": "Aplanado",
+	"advancements.minecells.concierge.description": "Derrota al Conserje",
+	"block.minecells.putrid_button": "Botón Pútrido",
+	"block.minecells.putrid_pressure_plate": "Placa de Presión Pútrida",
+	"block.minecells.putrid_sign": "Letrero Pútrido",
+	"block.minecells.putrid_wall_sign": "Letrero de Pared Pútrido",
+	"block.minecells.prison_stone_pressure_plate": "Placa de Presión de Piedra de Prisión",
+	"block.minecells.prison_stone_button": "Botón de Piedra de Prisión",
+	"block.minecells.runic_vine_stone": "Piedra de Vid Rúnica",
+	"block.minecells.beam_placer": "Colocador de Vigas",
+	"block.minecells.runic_vine_plant": "Planta de Vid Rúnica",
+	"block.minecells.return_stone": "Piedra de Retorno",
+	"block.minecells.doorway_frame": "Marco de Entrada",
+	"block.minecells.overworld_doorway": "Entrada al Mundo Superior",
+	"block.minecells.red_putrid_sapling": "Brote Rojo Pútrido",
+	"block.minecells.solid_barrier_rune": "Runa de Barrera Sólida",
+	"block.minecells.conditional_barrier": "Barrera Condicional",
+	"block.minecells.boss_barrier_controller": "Controlador de Barrera de Jefe",
+	"block.minecells.boss_entry_barrier_controller": "Controlador de Barrera de Entrada de Jefe",
+	"block.minecells.player_barrier_controller": "Controlador de Barrera de Jugador",
+	"block.minecells.cracked_prison_bricks": "Ladrillos de Prisión Agrietados",
+	"block.minecells.cracked_prison_brick_stairs": "Escaleras de Ladrillo de Prisión Agrietado",
+	"block.minecells.cracked_prison_brick_slab": "Losa de Ladrillo de Prisión Agrietado",
+	"block.minecells.cracked_prison_brick_wall": "Muro de Ladrillo de Prisión Agrietado",
+	"block.minecells.ramparts_torch": "Antorcha de las Murallas",
+	"block.minecells.concierge_box": "Caja del Conserje",
+	"block.minecells.unbreakable_doorway_frame": "Marco de Entrada Inquebrantable",
+	"block.minecells.kings_crest_flag": "Bandera del Emblema del Rey",
+	"block.minecells.torn_kings_crest_flag": "Bandera del Emblema del Rey Rasgada",
+	"block.minecells.promenade_of_the_condemned_flag": "Bandera del Paseo de los Condenados",
+	"block.minecells.ramparts_flag": "Bandera de las Murallas",
+	"block.minecells.black_bridge_flag": "Bandera del Puente Negro",
+	"block.minecells.insufferable_crypt_flag": "Bandera de la Cripta Insufrible",
+	"block.minecells.large_red_ribbon_flag": "Bandera de Gran Lazo Rojo",
+	"block.minecells.red_ribbon_flag": "Bandera de Lazo Rojo",
+	"block.minecells.prison_doorway": "Entrada a los Barracones de Prisioneros",
+	"block.minecells.promenade_doorway": "Entrada al Paseo de los Condenados",
+	"block.minecells.insufferable_crypt_doorway": "Entrada a la Cripta Insufrible",
+	"block.minecells.ramparts_doorway": "Entrada a las Murallas",
+	"block.minecells.black_bridge_doorway": "Entrada al Puente Negro",
+	"block.minecells.rift": "Grieta"
+}
