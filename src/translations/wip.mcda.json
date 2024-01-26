@@ -153,10 +153,10 @@
     
     "item.mcda.wither_armor.effect.tooltip_1":      "Marchitado",
     
-    "item.mcda.guards_armor_helmet":                "Casco de Guardia",
-    "item.mcda.guards_armor_chestplate":            "Peto de Guardia",
+    "item.mcda.guards_armor_helmet":                "Casco del Guardia",
+    "item.mcda.guards_armor_chestplate":            "Peto del Guardia",
     "item.mcda.guards_armor_leggings":              "Leotardos de Guardia",
-    "item.mcda.guards_armor_boots":                 "Botass de Guardia",
+    "item.mcda.guards_armor_boots":                 "Botas del Guardia",
     
     "item.mcda.guards_armor.tooltip_1":             "Armadura barata hecha en masa,",
     "item.mcda.guards_armor.tooltip_2":             "es una vista común en",
@@ -165,7 +165,7 @@
     "item.mcda.curious_armor_helmet":               "Casco Curioso",
     "item.mcda.curious_armor_chestplate":           "Peto Curioso",
     "item.mcda.curious_armor_leggings":             "Leotardos Curiosos",
-    "item.mcda.curious_armor_boots":                "Botass Curiosas",
+    "item.mcda.curious_armor_boots":                "Botas Curiosas",
     
     "item.mcda.curious_armor.tooltip_1":            "Nadie sabe de dónde vino esta extraña",
     "item.mcda.curious_armor.tooltip_2":            "armadura, pero te parece",
