@@ -1,4 +1,7 @@
 {
+	"htp_metadata_version": "1.0.0",
+    "htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: 4drian",
+
     "itemGroup.wizards.general": "Wizards",
   
     "item.wizards.arcane_spell_book": "Tomo Arcano",
@@ -60,7 +63,7 @@
     "spell.wizards.fire_meteor.description": "Hace caer meteoritos sobre el objetivo, cada uno de los cuales causa hasta {damage} de hechizo de Fuego en un radio de {impact_range} bloques.",
   
     "spell.wizards.ice_lance.name": "Lanza de Escarcha",
-    "spell.wizards.ice_lance.description": "Lanza una esquirla de escarcha que atraviesa {pierce} al objetivo, causando {damage} de hechizo de Escarcha al impactar.",
+    "spell.wizards.ice_lance.description": "Lanza una esquirla de escarcha que atraviesa {pierce} objetivos, causando {damage} de hechizo de Escarcha al impactar.",
     "spell.wizards.frostbolt.name": "Descarga Gélida",
     "spell.wizards.frostbolt.description": "Lanza una bola de escarcha que rebota hacia {ricochet} objetivos cercanos adicionales, causando {damage} de hechizo de Escarcha y ralentizando al objetivo al impactar.",
     "effect.wizards.frost_slowness": "Lentitud",
