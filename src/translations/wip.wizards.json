@@ -1,5 +1,5 @@
 {
-	"htp_metadata_version": "1.0.0",
+    "htp_metadata_version": "1.0.0",
     "htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: 4drian",
 
     "itemGroup.wizards.general": "Wizards",
@@ -81,11 +81,11 @@
     "advancements.rpg_classes.obtain_wizard_robes.description": "Adquiere un conjunto completo de ropas de Mago",
     "advancements.rpg_classes.obtain_wand.title": "La Varita elige al Mago",
     "advancements.rpg_classes.obtain_wand.description": "Adquiere una Varita",
-    "advancements.rpg_classes.obtain_arcane_rune.title": "Senda Arcana",
+    "advancements.rpg_classes.obtain_arcane_rune.title": "Camino Enigmático",
     "advancements.rpg_classes.obtain_arcane_rune.description": "Consigue una Runa Arcana",
-    "advancements.rpg_classes.obtain_fire_rune.title": "Senda del Fuego",
+    "advancements.rpg_classes.obtain_fire_rune.title": "Camino Ígneo",
     "advancements.rpg_classes.obtain_fire_rune.description": "Consigue una Runa de Fuego",
-    "advancements.rpg_classes.obtain_frost_rune.title": "Senda de la Escarcha",
+    "advancements.rpg_classes.obtain_frost_rune.title": "Camino Gélido",
     "advancements.rpg_classes.obtain_frost_rune.description": "Consigue una Runa de Escarcha",
     "advancements.rpg_classes.arcane_mastery.title": "Flujos Arcanos",
     "advancements.rpg_classes.arcane_mastery.description": "Consigue todos los hechizos Arcanos",
