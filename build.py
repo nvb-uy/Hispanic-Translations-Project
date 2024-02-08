@@ -30,6 +30,7 @@ slang_replacements = [
 aruy_replacements = [
         ("Losa", "Baldosa"),
         ("Cristal", "Vidrio"),
+        ("Píldora", "Pastilla"),
 
         (" tienes", " tenés"),
         (" quieres ", " querés"),
