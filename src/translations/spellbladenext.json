@@ -1,4 +1,7 @@
 {
+    "htp_metadata_version": "1.0.0",
+	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+
     "attribute.name.spellbladenext.warding" : "Guardia Reactiva",
     "attribute.name.spellbladenext.convertfromfire" : "Poder de Fuego convertido en Daño de Ataque",
     "attribute.name.spellbladenext.convertfromfrost" : "Poder de Escarcha convertido en Daño de Ataque",

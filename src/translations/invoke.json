@@ -1,4 +1,7 @@
 {
+    "htp_metadata_version": "1.0.0",
+	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+
     "spell.invoke.armageddon.name": "Ragnarok",
     "spell.invoke.armageddon.description": "Canaliza para invocar pequeños meteoros sobre el objetivo, causando {damage} daño de fuego por meteorito por segundo.",
     "spell.invoke.buckshot.name": "Disparo de Esquirlas de Meteorito",
