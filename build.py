@@ -66,7 +66,7 @@ def create_resource_pack(json_file, total_files, current_index):
     link = content.get("htp_metadata_link", "Not Yet Available")
 
     with open(uploads_file_path, 'a', encoding='utf-8') as uploads_file:
-        uploads_file.write(f"{pack_name.capitalize()} : {link}\n")
+        uploads_file.write(f"**{pack_name.capitalize()}** : {link}\n\n")
 
     for lang in languages:
         lang_content = content
