@@ -1,7 +1,8 @@
 
 {
     "htp_metadata_version": "1.0.0",
-	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+    "htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+    "htp_metadata_link": "https://www.curseforge.com/minecraft/texture-packs/htp-minecells",
 
     "item.minecells.sweeper_spawn_egg": "Huevo de Generación de Sweeper",
     "item.minecells.buzzcutter_spawn_egg": "Huevo de Generación de Buzzcutter",

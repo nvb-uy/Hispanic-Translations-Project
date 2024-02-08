@@ -1,6 +1,8 @@
 {
 	"htp_metadata_version": "1.0.0",
 	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: Askaban\nProofreaders: ElocinDev",
+	"htp_metadata_link": "https://www.curseforge.com/minecraft/texture-packs/htp-deep-aether",
+
 	"aether.pro_tips.line.deep_aether.deep_aether_tips": "§bLos tips de Deep Aether son celestes!",
 	"aether.pro_tips.line.deep_aether.squashes": "§bHas tratado alguna vez de encantar semillas de calabaza en un Altar?",
 	"aether.pro_tips.line.deep_aether.poison_squashes": "§bLos Squashes se vuelven púrpura cuando se tiran en veneno.",

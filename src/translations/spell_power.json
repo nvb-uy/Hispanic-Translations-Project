@@ -1,6 +1,7 @@
 {
     "htp_metadata_version": "1.0.0",
 	"htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: ElocinDev",
+    "htp_metadata_link": "https://www.curseforge.com/minecraft/texture-packs/htp-spell-power",
 
     "attribute.name.spell_power.arcane" : "Poder de Hechizo Arcano",
     "attribute.name.spell_power.fire" : "Poder de Hechizo de Fuego",
