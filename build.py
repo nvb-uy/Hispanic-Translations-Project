@@ -17,6 +17,7 @@ mcmeta_content = {
 translations_dir = './src/translations'
 output_dir = './build/out'
 pack_image_path = './resources/pack.png'
+uploads_file_path = './UPLOADS.md'
 
 slang_languages = ["es_ar", "es_uy", "es_cl", "es_mx"]
 
@@ -62,6 +63,10 @@ def create_resource_pack(json_file, total_files, current_index):
 
     translation_version = content.get("htp_metadata_version", "unknown")
     credits = content.get("htp_metadata_credits", "This translation was made by the HTP (Hispanic Translations Project) Team")
+    link = content.get("htp_metadata_link", "Not Yet Available")
+
+    with open(uploads_file_path, 'a', encoding='utf-8') as uploads_file:
+        uploads_file.write(f"{pack_name.capitalize()} : {link}\n")
 
     for lang in languages:
         lang_content = content
@@ -102,9 +107,12 @@ def create_resource_pack(json_file, total_files, current_index):
 
 # --------------------------------------------------------------------------------------------------------------- #
 
+with open(uploads_file_path, 'w', encoding='utf-8') as uploads_file:
+    uploads_file.write('') 
+
 os.makedirs(output_dir, exist_ok=True)
 
-json_files = [f for f in os.listdir(translations_dir) if f.endswith('.json')]
+json_files = [f for f in os.listdir(translations_dir) if f.endswith('.json') and not f.lower().startswith('wip')]
 total_files = len(json_files)
 
 for index, file in enumerate(json_files):
