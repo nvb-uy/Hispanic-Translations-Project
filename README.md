@@ -24,11 +24,11 @@ We are a small team of native spanish speakers
 
 - ElocinDev (Founder, Proofreader and Translator)
 - Askaban (Translator)
-- KS_Debfyed (Translator and Proofreader)
 
 ## Contributors
 
-- None yet, why don't you contribute? :D
+- [4drian](https://github.com/4drian) (Translator and Proofreader)
+- KS_Debfyed (Translator and Proofreader)
 
 # Building
 
