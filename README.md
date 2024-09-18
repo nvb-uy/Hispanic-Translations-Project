@@ -29,6 +29,7 @@ We are a small team of native spanish speakers
 
 - [4drian](https://github.com/4drian) (Translator and Proofreader)
 - KS_Debfyed (Translator and Proofreader)
+- [Ameisin](https://github.com/Ameisin) (Translator)
 
 # Building
 
@@ -54,7 +55,7 @@ Important, add the metadata entries if they don't exist, they're used by the bui
 
 ## Review Process
 After doing a PR, you will be reviewed by approved moderators, and if needed, changes will be requested or made.
-
+Once approved it'll get uploaded as a resourcepack and translators/proofreaders will receive the rewards from the project.
 
 ## Translation Rules
 The general translation rules are:
