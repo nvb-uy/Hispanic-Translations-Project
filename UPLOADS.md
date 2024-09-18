@@ -1,3 +1,5 @@
+**Accessories** : Not Yet Available
+
 **Aether_redux** : https://www.curseforge.com/minecraft/texture-packs/htp-aether-redux
 
 **Betterarcheology** : https://www.curseforge.com/minecraft/texture-packs/htp-better-archeology
