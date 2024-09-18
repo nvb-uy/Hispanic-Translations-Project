@@ -48,7 +48,7 @@ If not, create a new json file with the mod's id as the name. Then add its trans
 Important, add the metadata entries if they don't exist, they're used by the build script when generating a resourcepack.
 ### Example Metadata Entries:
 ```json
-"htp_metadata_version": "1.0.0".
+"htp_metadata_version": "1.0.0",
 "htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: (Your Name)"
 ```
 
