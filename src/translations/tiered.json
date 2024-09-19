@@ -283,10 +283,10 @@
     "item.modifiers.hand": "Al empuñarlo:",
   
     "commands.tiered.failed": "Sin cambios. La mano del objetivo está vacía",
-    "commands.tiered.untier_failed": "Sin cambios. %s de %s no tiene categoría",
-    "commands.tiered.untier": "Eliminada categoría %s de %s",
-    "commands.tiered.tiering_failed": "Sin cambios. %s de %s no tiene categoría asignada",
-    "commands.tiered.tier": "Asignada categoría %s de %s",
+    "commands.tiered.untier_failed": "Sin cambios. %s de %s no tiene rareza",
+    "commands.tiered.untier": "Eliminada rareza %s de %s",
+    "commands.tiered.tiering_failed": "Sin cambios. %s de %s no tiene rareza asignada",
+    "commands.tiered.tier": "Asignada rareza %s de %s",
   
     "item.tiered.limestone_chunk": "Fragmento de caliza",
     "item.tiered.pyrite_chunk": "Fragmento de pirita",
