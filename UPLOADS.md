@@ -1,20 +1,22 @@
-**Accessories** : https://www.curseforge.com/minecraft/texture-packs/htp-accessories
+**Accessories** : Not Yet Available
 
 **Aether_redux** : https://www.curseforge.com/minecraft/texture-packs/htp-aether-redux
 
-**Better Archeology** : https://www.curseforge.com/minecraft/texture-packs/htp-better-archeology
+**Betterarcheology** : https://www.curseforge.com/minecraft/texture-packs/htp-better-archeology
 
-**Deep Aether** : https://www.curseforge.com/minecraft/texture-packs/htp-deep-aether
+**Deep_aether** : https://www.curseforge.com/minecraft/texture-packs/htp-deep-aether
 
 **Estrogen** : https://www.curseforge.com/minecraft/texture-packs/htp-estrogen
 
-**Invocations** : https://www.curseforge.com/minecraft/texture-packs/htp-invocations
+**Invoke** : https://www.curseforge.com/minecraft/texture-packs/htp-invocations
 
-**Mine Cells** : https://www.curseforge.com/minecraft/texture-packs/htp-minecells
+**Minecells** : https://www.curseforge.com/minecraft/texture-packs/htp-minecells
 
-**Spellblades and Such** : https://www.curseforge.com/minecraft/texture-packs/htp-spellblade
+**Simplyswords** : Not Yet Available
 
-**Spell Power** : https://www.curseforge.com/minecraft/texture-packs/htp-spell-power
+**Spellbladenext** : https://www.curseforge.com/minecraft/texture-packs/htp-spellblade
+
+**Spell_power** : https://www.curseforge.com/minecraft/texture-packs/htp-spell-power
 
 **Wizards** : https://www.curseforge.com/minecraft/texture-packs/htp-wizards
 
