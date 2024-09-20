@@ -2,6 +2,11 @@
     "htp_metadata_version": "1.0.0",
     "htp_metadata_credits": "This translation was made by the HTP (Hispanic Translations Projects) Team. \nTranslators: Ameisin",
 
+  "generic.dig_speed": "Velocidad de minado",
+  "generic.crit_chance": "Probabilidad de crítico",
+  "generic.durable": "Durabilidad",
+  "generic.range_attack_damage": "Daño a distancia",
+
   "tiered:common_armor_1.label": "Common",
   "tiered:common_armor_2.label": "Common",
   "tiered:common_armor_3.label": "Common",
