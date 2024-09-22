@@ -1,0 +1,60 @@
+{
+    "itemGroup.archers.general": "Arqueros",
+    "item.archers.auto_fire_hook.description_1": "Dispara flechas cargadas automáticamente.",
+    "item.archers.auto_fire_hook.description_2": "Se puede aplicar a armas a distancia en un Yunque.",
+    "item.ranged_weapon.pull_time": "%1$s seg Tiempo de tensión",
+
+    "block.archers.archers_workbench": "Mesa de Artesano de Arquería",
+    "block.archers.archers_workbench.hint": "Mesa de trabajo para los aldeanos artesanos de arquería.",
+    "entity.minecraft.villager.archery_artisan": "Artesano de Arquería",
+    "entity.minecraft.villager.archers:archery_artisan": "Artesano de Arquería",
+
+    "item.archers.auto_fire_hook": "Gancho de disparo automático",
+
+    "item.archers.flint_spear": "Lanza de sílex",
+    "item.archers.iron_spear": "Lanza de hierro",
+    "item.archers.golden_spear": "Lanza de oro",
+    "item.archers.diamond_spear": "Lanza de diamante",
+    "item.archers.netherite_spear": "Lanza de netherita",
+
+    "item.archers.archer_armor_head": "Capucha de arquero",
+    "item.archers.archer_armor_chest": "Túnica de arquero",
+    "item.archers.archer_armor_legs": "Pantalones de arquero",
+    "item.archers.archer_armor_feet": "Botas de arquero",
+
+    "item.archers.ranger_armor_head": "Capucha de guardabosques",
+    "item.archers.ranger_armor_chest": "Túnica de guardabosques",
+    "item.archers.ranger_armor_legs": "Pantalones de guardabosques",
+    "item.archers.ranger_armor_feet": "Botas de guardabosques",
+
+    "item.archers.composite_longbow": "Arco largo compuesto",
+    "item.archers.mechanic_shortbow": "Arco corto mecánico",
+    "item.archers.royal_longbow": "Arco largo real",
+    "item.archers.rapid_crossbow": "Ballesta rápida",
+    "item.archers.heavy_crossbow": "Ballesta pesada",
+    "item.archers.netherite_shortbow": "Arco corto de netherita",
+    "item.archers.netherite_longbow": "Arco largo de netherita",
+    "item.archers.netherite_rapid_crossbow": "Ballesta rápida de netherita",
+    "item.archers.netherite_heavy_crossbow": "Ballesta pesada de netherita",
+
+    "item.archers.archer_spell_book": "Manual de Arquería",
+
+    "spell.archers.power_shot.name": "Disparo Potente",
+    "spell.archers.power_shot.description": "Dispara una flecha poderosa, inflige a la víctima la Marca del Cazador durante {effect_duration} segundos, aumentando el daño recibido un 5%, acumulándose hasta {effect_amplifier} veces.",
+    "effect.archers.hunters_mark": "Marcado",
+    "effect.archers.hunters_mark.description": "Aumenta el daño recibido de todas las fuentes en un 5%",
+
+    "spell.archers.entangling_roots.name": "Raíces Enredadoras",
+    "spell.archers.entangling_roots.description": "Invoca raíces que brotan del suelo en el área cercana, ralentizando a los enemigos durante {cloud_duration} segundos.",
+    "effect.archers.entangling_roots": "Raíces Enredadoras",
+    "effect.archers.entangling_roots.description": "Reduce la velocidad de movimiento",
+
+
+    "spell.archers.barrage.name": "Aluvión",
+    "spell.archers.barrage.description": "Dispara múltiples flechas en rápida sucesión.",
+
+    "advancements.rpg_classes.obtain_arrow.title": "Camino del Arquero",
+    "advancements.rpg_classes.obtain_arrow.description": "Obtén una Flecha",
+    "advancements.rpg_classes.archer_mastery.title": "Experto en Balística",
+    "advancements.rpg_classes.archer_mastery.description": "Completa el Manual de Arquería"
+}
