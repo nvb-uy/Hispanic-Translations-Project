@@ -393,7 +393,7 @@
   "gauge_text.ad_astra.blocked_warning[0]": "¡No se genera oxígeno!",
   "gauge_text.ad_astra.blocked_warning[1]": "Asegúrese de que se suministre suficiente oxígeno y energía.",
   "gauge_text.ad_astra.energy_per_tick": "%s ⚡ / tick",
-  "gauge_text.ad_astra.fluid_per_tick": "%s 🪣 / seg",,
+  "gauge_text.ad_astra.fluid_per_tick": "%s 🪣 / seg",
   "gauge_text.ad_astra.liquid_storage": "%s 🪣 / %d 🪣",
   "gauge_text.ad_astra.max_generation": "Generación Máxima de Energía",
   "gauge_text.ad_astra.oxygen_blocks": "Bloques de Oxígeno:",
